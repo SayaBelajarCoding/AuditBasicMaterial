@@ -1,0 +1,21 @@
+Material,Quantity,Quality,Supplier,Price,Color,Type,Conductivity
+Iron Ore,5000,High,Toko Besi Jaya,80.0,Red,0,Low
+Aluminum,3000,Medium,Alumindo Sejahtera,120.0,Silver,0,High
+Copper,200,Low,Tembaga Utama,150.0,Orange,0,High
+Gold,100,High,Emas Makmur,200.0,Yellow,0,High
+Silver,800,High,Perak Bersinar,90.0,Silver,0,High
+Coal,5000,Medium,Batu Bara Sentosa,50.0,Black,0,Low
+Limestone,4000,High,Batu Kapur Abadi,70.0,Gray,0,Low
+Gypsum,300,Low,Gipsum Nusantara,120.0,White,0,Low
+Salt,2000,High,Garam Rasa,30.0,White,0,High
+Corn,10000,High,Produsen Jagung,10.0,Yellow,0,Low
+Wheat,8000,Medium,Tepung Gandum Sejahtera,8.0,Yellow,0,Low
+Soybeans,5000,High,Kedelai Berkah,15.0,Yellow,0,Low
+Crude Oil,100000,High,Minyak Mentah Nusantara,65.0,Black,2,Low
+Natural Gas,50000,High,Gas Alam Sejati,80.0,Colorless,1,Low
+Coal,2000,Medium,Batu Bara Sentosa,55.0,Black,0,Low
+Uranium,100,High,Uranium Nuklirindo,180.0,Green,0,Low
+Wood,6000,High,Kayu Lestari,40.0,Brown,0,Low
+Paper,5000,Medium,Kertas Cemerlang,20.0,White,0,Low
+Pulp,3000,Low,Pulp Serbaguna,30.0,White,0,Low
+Plastics,1000,High,Plastik Berkah,50.0,Various,0,Low
